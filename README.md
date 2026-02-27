@@ -12,5 +12,9 @@ A machine learning project for analyzing and predicting bike rental demand using
 
 **Result** : XGBoost perfroms well with 0.88% accuracy.
 
-**How to Run**:
-  - 
+**How to Run** : using Git Clone method..
+  - Copy the repository URL from GitHub.
+  - Open Command Prompt (CMD).
+  - Clone the repository using: git clone "copied url".
+  - Open Jupyter Notebook and navigate to the cloned folder.
+  - Open the .ipynb file and run cells step by step.
